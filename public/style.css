@@ -6,6 +6,10 @@
   padding: 0;
 }
 
+#dashboard {
+  color: yellow;
+}
+
 html,
 body,
 .wrapper {
