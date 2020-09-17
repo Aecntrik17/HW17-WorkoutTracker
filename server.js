@@ -1,6 +1,7 @@
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
+require("dotenv").config();
 
 const apiRoutes = require("./routes/api-routes");
 const htmlRoutes = require("./routes/html-routes");
