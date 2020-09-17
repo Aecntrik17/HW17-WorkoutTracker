@@ -18,9 +18,9 @@ The User is able to:
 
 ## Visuals
 
-Deployed Applicaton:
-Github Repo:
-Screen shots:
+Deployed Applicaton:https://sleepy-shelf-82559.herokuapp.com/?id=5f63a6e65b786c47547c12e9
+Github Repo:https://github.com/Aecntrik17/HW17-WorkoutTracker
+Screen shots
 Landing Page:![image](https://user-images.githubusercontent.com/64560630/93395492-01ce8e00-f844-11ea-979b-ead40472e668.png)
 Resistance Workout: ![image](https://user-images.githubusercontent.com/64560630/93395671-4ce8a100-f844-11ea-87f1-f4c422482395.png)
 View Stats: ![image](https://user-images.githubusercontent.com/64560630/93395558-1dd22f80-f844-11ea-8d5c-938edbea2510.png)
